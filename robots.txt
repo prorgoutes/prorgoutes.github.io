@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://prorgoutes.github.io/sitemap
+Sitemap: https://prorgoutes.github.io/app/sitemap
+Sitemap: https://prorgoutes.github.io/assets/sitemap
+Sitemap: https://prorgoutes.github.io/css/sitemap
+Sitemap: https://prorgoutes.github.io/includes/sitemap
+Sitemap: https://prorgoutes.github.io/item/sitemap
+Sitemap: https://prorgoutes.github.io/src/sitemap
